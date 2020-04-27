@@ -1,0 +1,13 @@
+                     Intrucciones de uso de Smart agency
+
+una vez descargado realice la siguientes intrucciones:
+
+una vez dentro de la carpeta del programa habran dos llamada (build) y (dist)
+
+Paso 1: Ingresar a la carpeta con el nombre (dist). Dentro de dist habra otra carpeta llamada Main.
+
+Paso 2: ingresar a la carpeta Main. Una vez en la carpeta busque el archivo ejecutable llamado Main.
+
+Paso 3: Ejecute el archivo con el nombre Main.
+
+            Y listo tendra a Smart agency en ejecucion.

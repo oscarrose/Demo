@@ -1,0 +1,21 @@
+                     Intrucciones de uso de Smart agency
+
+una vez ya halla realizado las instrucciones de la parte 1 hacer esto paso para el uso Smart agency
+
+una vez en ejecucion se le aparecera una ventana de bienvenida
+
+Paso 1: Dar aceptar en la ventana de bienvenida
+
+Paso 2: En la pantalla principal para comenzar a detectar y reconocer placas dar en el boton que dice Usar smart agency.
+
+Paso 3: Dar en aceptar a el mensaje de smart agency
+
+Paso 4: seleccionar la imagena la cual desea que smart agency detecte y reconozca la placa.
+
+Paso 5: Smart agency le mostrara los resltado en su pantalla en la cual le mostrara 3 principales ventana con la informacion correspondiente.
+
+Tambien en el CMD se le mostrara dicha informacion de la deteccion de la placa
+
+Paso 6: Para cerrar Smart agency solo cierre la ventana del CMD correspondiente.
+
+Y listo de esta manera facil y sencilla puede usar Smart agency. 
